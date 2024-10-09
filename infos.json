@@ -1,0 +1,27 @@
+{
+    "Info_Pessoal":{
+        "Nome": "Ricardo Gabriel Teixeira da Silva",
+        "Email": "ricardo.anchor@gmail.com",
+        "Cidade": "Atibaia-SP",
+        "Cargo_Desejado": "Desenvolvedor",
+        "Sobre": ""
+    },
+    "Info_Academica":{
+        "Curso": "Analise e Desenvolvimento de Sistemas",
+        "Instituicao": "IFSP Bragança Pta",
+        "Data_formacao": "Fev 2019 - Atualmente"
+    },
+    "Info_Experiencia":{
+        "empresa": {
+            "Prefeitura_Atibaia":{
+                "Cargo": "Assistente",
+                "Atribuicoes":""
+            }
+        }
+    },
+    "Info_Cursos":{
+        "Nome":"",
+        "Descricao":""
+    }
+
+}
